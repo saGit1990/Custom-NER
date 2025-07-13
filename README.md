@@ -13,7 +13,7 @@ This project demonstrate how to train a custom Named Entity Recognition (NER) mo
 
 ----
 ## 📁 **Dataset**
-- Downloaded the dataset from Kaggle Medicle NER dataset. (https://github.com/saGit1990/Custom-NER/blob/838d2271d145803d917b1e125ce502aa7f89c58f/README.md#L16)
+- Downloaded the dataset from Kaggle Medicle NER dataset. (https://www.kaggle.com/datasets/finalepoch/medical-ner)
 - Stored in spaCy's 'DocBin'
 
 ----
